@@ -78,6 +78,8 @@
     <Compile Include="BesOil\BestOil.Designer.cs">
       <DependentUpon>BestOil.cs</DependentUpon>
     </Compile>
+    <Compile Include="BesOil\Food.cs" />
+    <Compile Include="BesOil\Petrol.cs" />
     <Compile Include="Starter.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -154,6 +156,12 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\anket.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gastation_logoq.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Buying_Sound_Effect.mp3" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

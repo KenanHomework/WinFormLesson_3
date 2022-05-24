@@ -91,6 +91,25 @@ namespace WinFormLesson_3.Properties {
         }
         
         /// <summary>
+        ///   Looks up a localized string similar to ID3TXXXmajor_branddashTXXXminor_version0TXXXcompatible_brandsiso6mp41TSSELavf57.19.100ÿû°dði        /// ¤ 4€LAME3.99.5UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUULAME3.99.5UUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUUU [rest of string was truncated]&quot;;.
+        /// </summary>
+        internal static string Buying_Sound_Effect {
+            get {
+                return ResourceManager.GetString("Buying_Sound_Effect", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap gastation_logoq {
+            get {
+                object obj = ResourceManager.GetObject("gastation_logoq", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Icon similar to (Icon).
         /// </summary>
         internal static System.Drawing.Icon home_icon {
